@@ -4,11 +4,11 @@
 I am a passionate developer skilled in Flutter, MERN stack, and machine learning, currently pursuing a B.Tech in Artificial Intelligence and Data Science at VIT Pune. My journey in tech has been enriched with hands-on experience in web and mobile development, and a deep dive into the world of machine learning. Beyond coding, I am enthusiastic about community engagement, technical events, and exploring new technologies that shape the future.
 
 ## Interests
-- 🤖 Artificial Intelligence
-- 📈 Machine Learning
 - 🌐 Web Development (MERN Stack)
 - 📱 Mobile App Development (Flutter)
 - 🧩 Data Structures and Algorithms
+- 🤖 Artificial Intelligence
+- 📈 Machine Learning
 - 💡 Innovation and Community Building
 
 ## Current Learning Focus
@@ -49,7 +49,7 @@ Created a model to predict flood-affected areas using neural networks and geospa
 - 🤝 If you are working on a project that could benefit from my expertise or if you have an exciting idea for collaboration, let's connect!
 
 ## How to Reach Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chinmayingale)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chinmay-ingale-474606258/)
 - 📧 Email: cdingale04@gmail.com
 
 ## Pronouns
