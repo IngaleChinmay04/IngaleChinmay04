@@ -48,6 +48,7 @@ Created a model to predict flood-affected areas using neural networks and geospa
 - ✌️ I’m looking to collaborate on innovative AI, ML, and web development projects that push the boundaries of technology.
 - 🤝 If you are working on a project that could benefit from my expertise or if you have an exciting idea for collaboration, let's connect!
 
+## Badges
   [![An image of @ingalechinmay04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ingalechinmay04)](https://holopin.io/@ingalechinmay04)
 
 ## How to Reach Me
