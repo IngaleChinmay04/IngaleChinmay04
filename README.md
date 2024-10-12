@@ -59,7 +59,11 @@ Created a model to predict flood-affected areas using neural networks and geospa
 - 😄 Pronouns: He/Him
 
 Together, let's learn and contribute!
+## Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IngaleChinmay04&show_icons=true)
 
+## Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngaleChinmay04&layout=compact)
 
 <!--
 **IngaleChinmay04/IngaleChinmay04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
