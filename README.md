@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chinmay Ingale
+<h1 align=center>👋 Hi, I’m Chinmay Ingale </h1>
 
 ## About Me
 I am a passionate developer skilled in Flutter, MERN stack, and machine learning, currently pursuing a B.Tech in Artificial Intelligence and Data Science at VIT Pune. My journey in tech has been enriched with hands-on experience in web and mobile development, and a deep dive into the world of machine learning. Beyond coding, I am enthusiastic about community engagement, technical events, and exploring new technologies that shape the future.
