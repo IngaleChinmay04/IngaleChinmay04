@@ -60,10 +60,11 @@ Created a model to predict flood-affected areas using neural networks and geospa
 
 Together, let's learn and contribute!
 ## Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IngaleChinmay04&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IngaleChinmay04&show_icons=true&theme=dark) 
+![](https://streak-stats.demolab.com/?user=IngaleChinmay04&theme=dark)
 
 ## Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngaleChinmay04&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngaleChinmay04&layout=compact&theme=dark)
 
 <!--
 **IngaleChinmay04/IngaleChinmay04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
