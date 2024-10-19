@@ -17,7 +17,7 @@ I am a passionate developer skilled in Flutter, MERN stack, and machine learning
 - 📱 Advanced Flutter Animations and State Management
 
 ## Projects
-### ❖ Contrify: Application for Personalized Recommendations for Open-Source Contribution [GitHub]
+### ❖ Contrify: Application for Personalized Recommendations for Open-Source Contribution.
 **May 2024**  
 Developed a machine learning-based system with a MERN stack interface to recommend GitHub repositories for open-source contributions.  
 **Technologies**: Python, TF-IDF, LDA, BERT, Cosine Similarity, GitHub API, MongoDB, Express.js, React, Node.js  
@@ -26,7 +26,7 @@ Developed a machine learning-based system with a MERN stack interface to recomme
 - Enhanced recommendation accuracy using Cosine Similarity, clustering, and BERT-based embeddings.  
 **Outcome**: Provided personalized repository suggestions, improved user experience, and encouraged open-source contributions.
 
-### ❖ Dog Vision: Dog Breed Detection App Using Machine Learning and Flutter [GitHub]
+### ❖ Dog Vision: Dog Breed Detection App Using Machine Learning and Flutter
 **Dec 2023**  
 Developed a Flutter application integrated with a machine learning model to detect 120 unique dog breeds from images.  
 **Technologies**: Python, TensorFlow, Flutter, Firebase  
@@ -35,7 +35,7 @@ Developed a Flutter application integrated with a machine learning model to dete
 - Integrated Firebase for data management and authentication, allowing seamless image uploads and breed predictions.  
 **Outcome**: Created an interactive mobile app that accurately identifies dog breeds, enhancing user engagement with a responsive UI.
 
-### ❖ Flood Prediction Using Neural Networks and Geospatial Data [GitHub]
+### ❖ Flood Prediction Using Neural Networks and Geospatial Data 
 **Dec 2023**  
 Created a model to predict flood-affected areas using neural networks and geospatial data.  
 **Technologies**: Python, Scikit-learn, NetCDF4, Cartopy, Folium  
@@ -45,7 +45,7 @@ Created a model to predict flood-affected areas using neural networks and geospa
 **Outcome**: Enhanced accuracy in flood prediction and provided actionable insights through visualizations.
 
 ## Collaboration
-- ✌️ I’m looking to collaborate on innovative AI, ML, and web development projects that push the boundaries of technology.
+- ✌️ I’m looking to collaborate on innovative AI, ML, and web development and app development projects that push the boundaries of technology.
 - 🤝 If you are working on a project that could benefit from my expertise or if you have an exciting idea for collaboration, let's connect!
 
 ## Badges
