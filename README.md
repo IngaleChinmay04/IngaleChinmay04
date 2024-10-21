@@ -12,7 +12,7 @@ I am a passionate developer skilled in Flutter, MERN stack, and machine learning
 - 💡 Innovation and Community Building
 
 ## Current Learning Focus
-- 🔍 Advanced Machine Learning Techniques
+- 🔍 Advanced Machine Learning Techniques and Deep Learning
 - 🖥️ MERN Stack Development
 - 📱 Advanced Flutter Animations and State Management
 
