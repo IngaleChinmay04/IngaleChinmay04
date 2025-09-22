@@ -1,22 +1,33 @@
 <h1 align=center>👋 Hi, I’m Chinmay Ingale ! </h1>
 
+[![Chinmay Ingale](https://github.com/IngaleChinmay04.png?size=160)](https://github.com/IngaleChinmay04)
+
+
 ## About Me
-I am a passionate developer skilled in Flutter, MERN stack, and machine learning, currently pursuing a B.Tech in Artificial Intelligence and Data Science at VIT Pune. My journey in tech has been enriched with hands-on experience in web and mobile development, and a deep dive into the world of machine learning. Beyond coding, I am enthusiastic about community engagement, technical events, and exploring new technologies that shape the future.
+Passionate about technology, with a strong interest in Artificial Intelligence and Backend development. Curious 
+about building innovative, real-world solutions through continuous learning and hands-on projects.
 
 ## Interests
-- 🌐 Web Development (MERN Stack, Next js)
+- 🤖 Artificial Intelligence
+- 🌐 Backend Development 
 - 📱 Mobile App Development (Flutter)
 - 🧩 Data Structures and Algorithms
-- 🤖 Artificial Intelligence
-- 📈 Machine Learning
-- 💡 Innovation and Community Building
 
 ## Current Learning Focus
-- 🔍 Advanced Machine Learning Techniques and Deep Learning
-- 🖥️ MERN Stack Development
-- 📱 Advanced Flutter Animations and State Management
+- 🔍 Gen AI and Agentic AI 
+- 🖥️ Backend Development
+- 🚀 Cloud Technologies (Azure)
+
+## Experience
+
+🧠 AI Intern @ Siemens DISW (June 2025 – Present)
+Currently at Siemens DISW, working on cutting-edge AI solutions and cloud-based deployments using Azure and advanced AI frameworks like LangChain and RAGAS.
+
+🖥️ Backend & Mobile App Developer @ Infinity Toy Tronics Pvt. Ltd. (Dec 2024 – March 2025)
+Developed and deployed cross-platform mobile apps using Flutter on both Play Store and App Store, while also building scalable backend solutions with Next.js and Firebase at Infinity Toy Tronics.
 
 ## Projects
+
 ### ❖ Contrify: Application for Personalized Recommendations for Open-Source Contribution.
 **May 2024**  
 Developed a machine learning-based system with a MERN stack interface to recommend GitHub repositories for open-source contributions.  
