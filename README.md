@@ -17,10 +17,10 @@ about building innovative, real-world solutions through continuous learning and 
 
 ## Experience
 
-🧠 AI Intern @ Siemens DISW (June 2025 – Present)
+**🧠 AI Intern @ Siemens DISW (June 2025 – Present)**
 Currently at Siemens DISW, working on cutting-edge AI solutions and cloud-based deployments using Azure and advanced AI frameworks like LangChain and RAGAS.
 
-🖥️ Backend & Mobile App Developer @ Infinity Toy Tronics Pvt. Ltd. (Dec 2024 – March 2025)
+**🖥️ Backend & Mobile App Developer @ Infinity Toy Tronics Pvt. Ltd. (Dec 2024 – March 2025)**
 Developed and deployed cross-platform mobile apps using Flutter on both Play Store and App Store, while also building scalable backend solutions with Next.js and Firebase at Infinity Toy Tronics.
 
 ## Projects
