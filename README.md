@@ -1,8 +1,5 @@
 <h1 align=center>👋 Hi, I’m Chinmay Ingale ! </h1>
 
-[![Chinmay Ingale](https://github.com/IngaleChinmay04.png?size=160)](https://github.com/IngaleChinmay04)
-
-
 ## About Me
 Passionate about technology, with a strong interest in Artificial Intelligence and Backend development. Curious 
 about building innovative, real-world solutions through continuous learning and hands-on projects.
